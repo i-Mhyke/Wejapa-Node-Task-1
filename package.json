@@ -1,0 +1,23 @@
+{
+  "name": "wejapa-node-task-1",
+  "version": "1.0.0",
+  "description": "Wejapa First Task",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-Mhyke/Wejapa-Node-Task-1.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Michael Madumere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-Mhyke/Wejapa-Node-Task-1/issues"
+  },
+  "homepage": "https://github.com/i-Mhyke/Wejapa-Node-Task-1#readme"
+}
